@@ -1,15 +1,15 @@
 body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
-    color: #1a1a1a;
-    background-color: #599e4b;
+    color: #FFFFFF;
+    background-color: #807E7E;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #290B0B;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: #290B0B;
 }
 
 .navbar-collapse {
@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #FEFEFE;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -41,27 +41,27 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    text-shadow: 1px 1px 1px #474642;
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #CDBBBB;
 }
 
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #282828;
+    color: #FFFFFF;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
-    color: #202020;
-    background-color: #fce29e;
+    color: #000000;
+    background-color: #9B9C9B;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid #FFFFFF;
 }
 
 
@@ -91,9 +91,9 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #4D4D4D;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 80px #F0F2EE;
 }
 
 
